@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samaikhya Choppadandi
-- 👀 I’m interested in Technologies such as Python 🐍, Java ☕
 - 🌱 I’m currently pursuing my Masters in Data Science from University of Houston🤘
-- 👩‍💻 I'm looking for opportunities in Data Analytics and Machine Learning Roles
+- 👩‍💻 I'm looking for opportunities in Data Science and Machine Learning Roles
+- 👀 I’m comfortable working with Python 🐍, Java ☕, SQL, R, Tableau, C, C++
 - 📫 reach me on Linkedin in my Bio
 
 <!---
