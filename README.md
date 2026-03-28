@@ -161,12 +161,6 @@ Passionate about building systems that scale — from manufacturing automation p
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samaikhyachoppadandi&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samaikhyachoppadandi&layout=compact&theme=default&hide_border=true" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samaikhyachoppadandi&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
